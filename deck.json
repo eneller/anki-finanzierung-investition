@@ -4,6 +4,256 @@
         {
             "__type__": "Deck",
             "children": [],
+            "crowdanki_uuid": "07e88842-57bc-11ee-a1f9-50eb714989dc",
+            "deck_config_uuid": "68dd0c3e-3f22-11ee-b216-50eb714989dc",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [
+                "_logseq_anki_sync.css",
+                "_logseq_anki_sync.js",
+                "_logseq_anki_sync_back.css",
+                "_logseq_anki_sync_back.js",
+                "_logseq_anki_sync_front.css",
+                "_logseq_anki_sync_front.js"
+            ],
+            "name": "Derivate",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6509da10-6d61-4be9-8e95-f6211d7fbf38-multiline_card",
+                        "6509da10-6d61-4be9-8e95-f6211d7fbf38",
+                        "\n      <span>Spotvertrag <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Abschluss- und Lieferzeitpunkt stimmen überein</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"27c30504\",\"assets\":[]}"
+                    ],
+                    "guid": "K`ZK9Oq#zR",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6509da46-a9fc-41ac-bc88-dc0c84044fc6-multiline_card",
+                        "6509da46-a9fc-41ac-bc88-dc0c84044fc6",
+                        "\n      <span>(unbedingter)Terminvertrag <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Vereinbarung über die zukünftige Lieferung zu festgelegten Bedingungen</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Verpflichtung, d.h. es können Gewinne oder Verluste zum Lieferzeitpunkt auftreten</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Basiswert (Underlying) wird zu einem späteren Zeitpunkt ausgetauscht</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Die Partei in der Kaufposition kauft die Anlage</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Beispiele</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Forward <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>außerbörslich (OTC)</span>\n    </li>\n<li class=\"children\">\n      <span>TODO Zahlungsstrom (2.1)\n        <br>\n</span>\n    </li>\n<li class=\"children\">\n      <span>TODO Barwert</span>\n    </li></ul></li>\n<li class=\"children\">\n      <span>Future <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>an einer Börse gehandlet</span>\n    </li>\n<li class=\"children\">\n      <span>Clearing House ist die Gegenseite des Future Investors</span>\n    </li>\n<li class=\"children\">\n      <span>Der Wert von Future Verträgen ist immer gleich 0</span>\n    </li>\n<li class=\"children\">\n      <span>Weniger Anfällig  auf Kreditrisiko als Forwards</span>\n    </li>\n<li class=\"children\">\n      <span>marked-to-market <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>jeder Gewinn/Verlust wird am Ende jedes Handelstages ausgeglichen, durch ein sog. Margin-System</span>\n    </li></ul></li>\n<li class=\"children\">\n      <span>TODO Beispiel: Spekulation\n        <br>\n2.1</span>\n    </li></ul></li>\n<li class=\"children\">\n      <span>Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> <a class=\"tag\" href=\"logseq://graph/logseq?page=depth-1\">depth-1</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Finanzvertrag zwischen zwei Parteien zum Austausch von Verbindlichkeiten</span>\n    </li>\n<li class=\"children\">\n      <span>Arten</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Zins-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Austausch von Zinsverpflichtungen in einer einheitlichen Währung</span>\n    </li>\n<li class=\"children\">\n      <span>Arten</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Basis-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Vertragspartner tauschen zwei variable Zinszahlungen</span>\n    </li>\n<li class=\"children\">\n      <span>beispielsweise 6-Monats-EURIBOR gegen 3-Monats-EURIBOR</span>\n    </li></ul></li>\n<li class=\"children\">\n      <span>Kupon-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Vertragspartner tauschen eine variable gegen eine feste Zinsverpflichtung</span>\n    </li>\n<li class=\"children\">\n      <span>Laufzeit i.d.R 3-5 Jahre</span>\n    </li>\n<li class=\"children\">\n      <span>Basislevel, Swaplevel (fester Zinssatz) ist dabei frei wählbar</span>\n    </li>\n<li class=\"children\">\n      <span>die meisten Banken bieten Kunden standardisierte Swaps an, bei denen die variable Zahlung vierteljährlich und die feste Zahlung jährlich ist</span>\n    </li>\n<li class=\"children\">\n      <span>TODO Wert eines Kupon-Swaps <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <div class=\"mathblock\">\\[ Swap(L) = N - N * \\sum_{i=1}^T L * B(0,i) + B(0,T)\n       \\]</div>\n      <span>wobei \n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">B(0,t)</td>\n            <td scope=\"col\" class=\"org-left\">die Kurse von Nullkuponanleihen mit Nennwert 1 (normiert) und Endfälligkeit zum Zeitpunkt t</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">T</td>\n            <td scope=\"col\" class=\"org-left\">Laufzeit</td>\n          </tr>\n        </tbody>\n      </table>\n    </li></ul></li>\n<li class=\"children\">\n      <span>Swapyield <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> (2.2)</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Wird das Basislevel so gewählt, dass zu Beginn keine spezielle Prämie notwendig ist, wird das Basislevel <b>Swapyield</b> genannt.</span>\n    </li>\n<li class=\"children\">\n      <div class=\"mathblock\">\\[ y_s = L^* = \\frac{1-B(0,n)}{\\sum_{i=1}^{T}B(0,i)}\n       \\]</div>\n</li></ul></li>\n<li class=\"children\">\n      <span>Arten</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Payer-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Käufer erhält variable Zinszahlung und zahlt einen festen Zinssatz</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Beispiel:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Bei einem Payer-Swap mit den Daten:\n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Referenzzins (\\(r_L\\))</td>\n            <td scope=\"col\" class=\"org-left\">3-Monats EURIBOR</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Laufzeit (T )</td>\n            <td scope=\"col\" class=\"org-left\">3 Jahre</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Nennwert (N)</td>\n            <td scope=\"col\" class=\"org-left\">10 Mio.</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Basislevel (L)</td>\n            <td scope=\"col\" class=\"org-left\">2 % p. a.</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Vertragsbeginn</td>\n            <td scope=\"col\" class=\"org-left\">1.12.2019</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Festzinszahlung</td>\n            <td scope=\"col\" class=\"org-left\">jährliche Zahlungen: 1.12.2020, 1.12.2021, 1.12.2022</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">variable Zahlung (\\(t_i\\) )</td>\n            <td scope=\"col\" class=\"org-left\">vierteljährliche Zahlungen: 1.3.2020, ...., 1.12.2022</td>\n          </tr>\n        </tbody>\n      </table>\n      <span>verpflichtet sich der Halter zu jährlichen Festzinszahlungen von \\(L*N=200.000€\\).\n        <br>\nDer Halter erhält dafür vierteljährlich Zahlungen relativ zur Höhe des 3-Monats-EURIBOR des Vorzeitpunktes, also \\[L*r_L*t_i = 0,02 * \\text{EURIBOR} * 1/4 \\]</span>\n    </li>\n<li class=\"children\">\n      <span>Replizieren lässt sich die Auszahlung für den Halter (Emittenten) im Beispiel so:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Emittiere eine 3-jährige Kuponanleihe mit dem Nennwert 10 Mio., einer Kuponrate von 2%, und der Rückzahlung zum Nennwert zum selben Datum</span>\n    </li>\n<li class=\"children\">\n      <span>Lege 10 Mio. rollierend zum 3-Monats-EURIBOR an, d. h. zu den selben Zeitpunkten werden\n        <br>\nZinszahlungen entnommen und der Nennwert von 10 Mio. erneut angelegt.</span>\n    </li></ul></li></ul></li>\n<li class=\"children\"></li></ul></li></ul></li>\n<li class=\"children\">\n      <span>Receiver-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Käufer erhält die feste Zinszahlung und leistet die variable Zinszahlung</span>\n    </li></ul></li></ul></li></ul></li></ul></li></ul></li>\n<li class=\"children\">\n      <span>Währungs-Swap</span>\n    </li>\n<li class=\"children\">\n      <span>kombinierter Swap</span>\n    </li></ul></li></ul></li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"91d8fc6a\",\"assets\":[]}"
+                    ],
+                    "guid": "n40-tJ2@S3",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6509db1c-c0f8-4ca3-a5b5-185aaaa2d9fe-multiline_card",
+                        "6509db1c-c0f8-4ca3-a5b5-185aaaa2d9fe",
+                        "\n      <span>bedingter Terminvertrag <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Optionsvertrag</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>das <b>Recht</b> zu heute vereinbarten Bedingungen zu einem zukünftigen Zeitpunkt zu nutzen</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"3945d90b\",\"assets\":[]}"
+                    ],
+                    "guid": "MnLMNU5_As",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6509dbaf-76e0-419a-af3c-7fd4fdff7b11-multiline_card",
+                        "6509dbaf-76e0-419a-af3c-7fd4fdff7b11",
+                        "\n      <span>Forward <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>außerbörslich (OTC)</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>TODO Zahlungsstrom (2.1)\n        <br>\n</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>TODO Barwert</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"e3538ab8\",\"assets\":[]}"
+                    ],
+                    "guid": "rrzo=wIu5H",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6509dbb2-5512-46af-a977-d5ed29680e24-multiline_card",
+                        "6509dbb2-5512-46af-a977-d5ed29680e24",
+                        "\n      <span>Future <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>an einer Börse gehandlet</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Clearing House ist die Gegenseite des Future Investors</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Der Wert von Future Verträgen ist immer gleich 0</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Weniger Anfällig  auf Kreditrisiko als Forwards</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>marked-to-market <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>jeder Gewinn/Verlust wird am Ende jedes Handelstages ausgeglichen, durch ein sog. Margin-System</span>\n    </li></ul> }}</li>\n<li class=\"children\">{{c1:: \n      <span>TODO Beispiel: Spekulation\n        <br>\n2.1</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"6ec0ae53\",\"assets\":[]}"
+                    ],
+                    "guid": "H}{y`2DIJ%",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6509dbb4-a9a7-4db6-bbf3-77f71adad1ac-multiline_card",
+                        "6509dbb4-a9a7-4db6-bbf3-77f71adad1ac",
+                        "\n      <span>Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> <a class=\"tag\" href=\"logseq://graph/logseq?page=depth-1\">depth-1</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Finanzvertrag zwischen zwei Parteien zum Austausch von Verbindlichkeiten</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Arten</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"0c228c86\",\"assets\":[]}"
+                    ],
+                    "guid": "pDQvyqhh&K",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card",
+                        "depth-1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6509f019-a98c-40da-9d54-91ff3a85a0f0-multiline_card",
+                        "6509f019-a98c-40da-9d54-91ff3a85a0f0",
+                        "\n      <span>marked-to-market <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>jeder Gewinn/Verlust wird am Ende jedes Handelstages ausgeglichen, durch ein sog. Margin-System</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"7fab1309\",\"assets\":[]}"
+                    ],
+                    "guid": "x6iw/5&6oT",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650ae013-2b3c-4232-ac51-1036b77957bf-multiline_card",
+                        "650ae013-2b3c-4232-ac51-1036b77957bf",
+                        "\n      <span>Zins-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Austausch von Zinsverpflichtungen in einer einheitlichen Währung</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Arten</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Basis-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Vertragspartner tauschen zwei variable Zinszahlungen</span>\n    </li>\n<li class=\"children\">\n      <span>beispielsweise 6-Monats-EURIBOR gegen 3-Monats-EURIBOR</span>\n    </li></ul></li>\n<li class=\"children\">\n      <span>Kupon-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Vertragspartner tauschen eine variable gegen eine feste Zinsverpflichtung</span>\n    </li>\n<li class=\"children\">\n      <span>Laufzeit i.d.R 3-5 Jahre</span>\n    </li>\n<li class=\"children\">\n      <span>Basislevel, Swaplevel (fester Zinssatz) ist dabei frei wählbar</span>\n    </li>\n<li class=\"children\">\n      <span>die meisten Banken bieten Kunden standardisierte Swaps an, bei denen die variable Zahlung vierteljährlich und die feste Zahlung jährlich ist</span>\n    </li>\n<li class=\"children\">\n      <span>TODO Wert eines Kupon-Swaps <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <div class=\"mathblock\">\\[ Swap(L) = N - N * \\sum_{i=1}^T L * B(0,i) + B(0,T)\n       \\]</div>\n      <span>wobei \n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">B(0,t)</td>\n            <td scope=\"col\" class=\"org-left\">die Kurse von Nullkuponanleihen mit Nennwert 1 (normiert) und Endfälligkeit zum Zeitpunkt t</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">T</td>\n            <td scope=\"col\" class=\"org-left\">Laufzeit</td>\n          </tr>\n        </tbody>\n      </table>\n    </li></ul></li>\n<li class=\"children\">\n      <span>Swapyield <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> (2.2)</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Wird das Basislevel so gewählt, dass zu Beginn keine spezielle Prämie notwendig ist, wird das Basislevel <b>Swapyield</b> genannt.</span>\n    </li>\n<li class=\"children\">\n      <div class=\"mathblock\">\\[ y_s = L^* = \\frac{1-B(0,n)}{\\sum_{i=1}^{T}B(0,i)}\n       \\]</div>\n</li></ul></li>\n<li class=\"children\">\n      <span>Arten</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Payer-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Käufer erhält variable Zinszahlung und zahlt einen festen Zinssatz</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Beispiel:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Bei einem Payer-Swap mit den Daten:\n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Referenzzins (\\(r_L\\))</td>\n            <td scope=\"col\" class=\"org-left\">3-Monats EURIBOR</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Laufzeit (T )</td>\n            <td scope=\"col\" class=\"org-left\">3 Jahre</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Nennwert (N)</td>\n            <td scope=\"col\" class=\"org-left\">10 Mio.</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Basislevel (L)</td>\n            <td scope=\"col\" class=\"org-left\">2 % p. a.</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Vertragsbeginn</td>\n            <td scope=\"col\" class=\"org-left\">1.12.2019</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Festzinszahlung</td>\n            <td scope=\"col\" class=\"org-left\">jährliche Zahlungen: 1.12.2020, 1.12.2021, 1.12.2022</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">variable Zahlung (\\(t_i\\) )</td>\n            <td scope=\"col\" class=\"org-left\">vierteljährliche Zahlungen: 1.3.2020, ...., 1.12.2022</td>\n          </tr>\n        </tbody>\n      </table>\n      <span>verpflichtet sich der Halter zu jährlichen Festzinszahlungen von \\(L*N=200.000€\\).\n        <br>\nDer Halter erhält dafür vierteljährlich Zahlungen relativ zur Höhe des 3-Monats-EURIBOR des Vorzeitpunktes, also \\[L*r_L*t_i = 0,02 * \\text{EURIBOR} * 1/4 \\]</span>\n    </li>\n<li class=\"children\">\n      <span>Replizieren lässt sich die Auszahlung für den Halter (Emittenten) im Beispiel so:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Emittiere eine 3-jährige Kuponanleihe mit dem Nennwert 10 Mio., einer Kuponrate von 2%, und der Rückzahlung zum Nennwert zum selben Datum</span>\n    </li>\n<li class=\"children\">\n      <span>Lege 10 Mio. rollierend zum 3-Monats-EURIBOR an, d. h. zu den selben Zeitpunkten werden\n        <br>\nZinszahlungen entnommen und der Nennwert von 10 Mio. erneut angelegt.</span>\n    </li></ul></li></ul></li>\n<li class=\"children\"></li></ul></li></ul></li>\n<li class=\"children\">\n      <span>Receiver-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Käufer erhält die feste Zinszahlung und leistet die variable Zinszahlung</span>\n    </li></ul></li></ul></li></ul></li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"0113317e\",\"assets\":[]}"
+                    ],
+                    "guid": "sf/[C:4Do:",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650ae04f-fa3a-454c-98fb-a2281036bc4d-multiline_card",
+                        "650ae04f-fa3a-454c-98fb-a2281036bc4d",
+                        "\n      <span>Basis-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Vertragspartner tauschen zwei variable Zinszahlungen</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>beispielsweise 6-Monats-EURIBOR gegen 3-Monats-EURIBOR</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"7b243a1a\",\"assets\":[]}"
+                    ],
+                    "guid": "DlGapc*rH.",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650ae052-40cf-4513-99f9-69c3713764d8-multiline_card",
+                        "650ae052-40cf-4513-99f9-69c3713764d8",
+                        "\n      <span>Kupon-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Vertragspartner tauschen eine variable gegen eine feste Zinsverpflichtung</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Laufzeit i.d.R 3-5 Jahre</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Basislevel, Swaplevel (fester Zinssatz) ist dabei frei wählbar</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>die meisten Banken bieten Kunden standardisierte Swaps an, bei denen die variable Zahlung vierteljährlich und die feste Zahlung jährlich ist</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>TODO Wert eines Kupon-Swaps <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <div class=\"mathblock\">\\[ Swap(L) = N - N * \\sum_{i=1}^T L * B(0,i) + B(0,T)\n       \\]</div>\n      <span>wobei \n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">B(0,t)</td>\n            <td scope=\"col\" class=\"org-left\">die Kurse von Nullkuponanleihen mit Nennwert 1 (normiert) und Endfälligkeit zum Zeitpunkt t</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">T</td>\n            <td scope=\"col\" class=\"org-left\">Laufzeit</td>\n          </tr>\n        </tbody>\n      </table>\n    </li></ul> }}</li>\n<li class=\"children\">{{c1:: \n      <span>Swapyield <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> (2.2)</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Wird das Basislevel so gewählt, dass zu Beginn keine spezielle Prämie notwendig ist, wird das Basislevel <b>Swapyield</b> genannt.</span>\n    </li>\n<li class=\"children\">\n      <div class=\"mathblock\">\\[ y_s = L^* = \\frac{1-B(0,n)}{\\sum_{i=1}^{T}B(0,i)}\n       \\]</div>\n</li></ul> }}</li>\n<li class=\"children\">{{c1:: \n      <span>Arten</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Payer-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Käufer erhält variable Zinszahlung und zahlt einen festen Zinssatz</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Beispiel:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Bei einem Payer-Swap mit den Daten:\n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Referenzzins (\\(r_L\\))</td>\n            <td scope=\"col\" class=\"org-left\">3-Monats EURIBOR</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Laufzeit (T )</td>\n            <td scope=\"col\" class=\"org-left\">3 Jahre</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Nennwert (N)</td>\n            <td scope=\"col\" class=\"org-left\">10 Mio.</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Basislevel (L)</td>\n            <td scope=\"col\" class=\"org-left\">2 % p. a.</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Vertragsbeginn</td>\n            <td scope=\"col\" class=\"org-left\">1.12.2019</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Festzinszahlung</td>\n            <td scope=\"col\" class=\"org-left\">jährliche Zahlungen: 1.12.2020, 1.12.2021, 1.12.2022</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">variable Zahlung (\\(t_i\\) )</td>\n            <td scope=\"col\" class=\"org-left\">vierteljährliche Zahlungen: 1.3.2020, ...., 1.12.2022</td>\n          </tr>\n        </tbody>\n      </table>\n      <span>verpflichtet sich der Halter zu jährlichen Festzinszahlungen von \\(L*N=200.000€\\).\n        <br>\nDer Halter erhält dafür vierteljährlich Zahlungen relativ zur Höhe des 3-Monats-EURIBOR des Vorzeitpunktes, also \\[L*r_L*t_i = 0,02 * \\text{EURIBOR} * 1/4 \\]</span>\n    </li>\n<li class=\"children\">\n      <span>Replizieren lässt sich die Auszahlung für den Halter (Emittenten) im Beispiel so:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Emittiere eine 3-jährige Kuponanleihe mit dem Nennwert 10 Mio., einer Kuponrate von 2%, und der Rückzahlung zum Nennwert zum selben Datum</span>\n    </li>\n<li class=\"children\">\n      <span>Lege 10 Mio. rollierend zum 3-Monats-EURIBOR an, d. h. zu den selben Zeitpunkten werden\n        <br>\nZinszahlungen entnommen und der Nennwert von 10 Mio. erneut angelegt.</span>\n    </li></ul></li></ul></li>\n<li class=\"children\"></li></ul></li></ul></li>\n<li class=\"children\">\n      <span>Receiver-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Käufer erhält die feste Zinszahlung und leistet die variable Zinszahlung</span>\n    </li></ul></li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"1efce708\",\"assets\":[]}"
+                    ],
+                    "guid": "C[Xn%:cF>l",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650ae062-64c5-43bb-997e-fb7911b16c96-multiline_card",
+                        "650ae062-64c5-43bb-997e-fb7911b16c96",
+                        "\n      <span>Payer-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Käufer erhält variable Zinszahlung und zahlt einen festen Zinssatz</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Beispiel:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Bei einem Payer-Swap mit den Daten:\n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Referenzzins (\\(r_L\\))</td>\n            <td scope=\"col\" class=\"org-left\">3-Monats EURIBOR</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Laufzeit (T )</td>\n            <td scope=\"col\" class=\"org-left\">3 Jahre</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Nennwert (N)</td>\n            <td scope=\"col\" class=\"org-left\">10 Mio.</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Basislevel (L)</td>\n            <td scope=\"col\" class=\"org-left\">2 % p. a.</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Vertragsbeginn</td>\n            <td scope=\"col\" class=\"org-left\">1.12.2019</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">Festzinszahlung</td>\n            <td scope=\"col\" class=\"org-left\">jährliche Zahlungen: 1.12.2020, 1.12.2021, 1.12.2022</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">variable Zahlung (\\(t_i\\) )</td>\n            <td scope=\"col\" class=\"org-left\">vierteljährliche Zahlungen: 1.3.2020, ...., 1.12.2022</td>\n          </tr>\n        </tbody>\n      </table>\n      <span>verpflichtet sich der Halter zu jährlichen Festzinszahlungen von \\(L*N=200.000€\\).\n        <br>\nDer Halter erhält dafür vierteljährlich Zahlungen relativ zur Höhe des 3-Monats-EURIBOR des Vorzeitpunktes, also \\[L*r_L*t_i = 0,02 * \\text{EURIBOR} * 1/4 \\]</span>\n    </li>\n<li class=\"children\">\n      <span>Replizieren lässt sich die Auszahlung für den Halter (Emittenten) im Beispiel so:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Emittiere eine 3-jährige Kuponanleihe mit dem Nennwert 10 Mio., einer Kuponrate von 2%, und der Rückzahlung zum Nennwert zum selben Datum</span>\n    </li>\n<li class=\"children\">\n      <span>Lege 10 Mio. rollierend zum 3-Monats-EURIBOR an, d. h. zu den selben Zeitpunkten werden\n        <br>\nZinszahlungen entnommen und der Nennwert von 10 Mio. erneut angelegt.</span>\n    </li></ul></li></ul></li>\n<li class=\"children\"></li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"e484007e\",\"assets\":[]}"
+                    ],
+                    "guid": "J1$Wb:yApb",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650ae066-ed07-40ad-b340-33f4066ff1da-multiline_card",
+                        "650ae066-ed07-40ad-b340-33f4066ff1da",
+                        "\n      <span>Receiver-Swap <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Käufer erhält die feste Zinszahlung und leistet die variable Zinszahlung</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"40b9d5d0\",\"assets\":[]}"
+                    ],
+                    "guid": "W,g?#E)SY",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650ae33c-0239-43f8-8033-a421b043065e-multiline_card",
+                        "650ae33c-0239-43f8-8033-a421b043065e",
+                        "\n      <span>Swapyield <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> (2.2)</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Wird das Basislevel so gewählt, dass zu Beginn keine spezielle Prämie notwendig ist, wird das Basislevel <b>Swapyield</b> genannt.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <div class=\"mathblock\">\\[ y_s = L^* = \\frac{1-B(0,n)}{\\sum_{i=1}^{T}B(0,i)}\n       \\]</div>\n }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"67b35459\",\"assets\":[]}"
+                    ],
+                    "guid": "P:t.0a$|s1",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650aea1b-7a57-4ef1-b876-ebee987c253b-multiline_card",
+                        "650aea1b-7a57-4ef1-b876-ebee987c253b",
+                        "\n      <span>TODO Wert eines Kupon-Swaps <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <div class=\"mathblock\">\\[ Swap(L) = N - N * \\sum_{i=1}^T L * B(0,i) + B(0,T)\n       \\]</div>\n      <span>wobei \n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">B(0,t)</td>\n            <td scope=\"col\" class=\"org-left\">die Kurse von Nullkuponanleihen mit Nennwert 1 (normiert) und Endfälligkeit zum Zeitpunkt t</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">T</td>\n            <td scope=\"col\" class=\"org-left\">Laufzeit</td>\n          </tr>\n        </tbody>\n      </table>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"4d9a2cc4\",\"assets\":[]}"
+                    ],
+                    "guid": "l<W}Y9*ZYr",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        },
+        {
+            "__type__": "Deck",
+            "children": [],
             "crowdanki_uuid": "2c3c13aa-55f3-11ee-a1f9-50eb714989dc",
             "deck_config_uuid": "68dd0c3e-3f22-11ee-b216-50eb714989dc",
             "desc": "",
@@ -30,7 +280,7 @@
                         "{{c2::\n      <span>Vorzugsaktien <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> <a class=\"tag\" href=\"logseq://graph/logseq?page=bidirectional\">bidirectional</a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Aktien mit höherer Gewinnausschüttung (Dividende), dafür üblicherweise ohne Stimmrecht</span>\n     }}</li></ul>",
                         "",
                         "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
-                        "{\"dependencyHash\":\"6059358d\",\"assets\":[]}"
+                        "{\"dependencyHash\":\"353f0920\",\"assets\":[]}"
                     ],
                     "guid": "f(9Nr,H]li",
                     "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
@@ -47,7 +297,7 @@
                         "{{c2::\n      <span>Stammaktien <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> <a class=\"tag\" href=\"logseq://graph/logseq?page=bidirectional\">bidirectional</a>\n        <br>\n</span>\n    }}\n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>\"normale\" Aktien mit Stimmrecht auf der Hauptversammlung und Anteil an der Gewinnausschüttung (Dividende)</span>\n     }}</li></ul>",
                         "",
                         "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
-                        "{\"dependencyHash\":\"7499745c\",\"assets\":[]}"
+                        "{\"dependencyHash\":\"2d3973f4\",\"assets\":[]}"
                     ],
                     "guid": "IOo~E6v>H9",
                     "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
@@ -61,10 +311,10 @@
                     "fields": [
                         "6505cd4a-898b-4149-9181-9a486e935ee8-multiline_card",
                         "6505cd4a-898b-4149-9181-9a486e935ee8",
-                        "\n      <span>Fremdkapital <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Der Bereitstellende wird zum Gläubiger</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Besitzt einen vertraglich festgelegten Anspruch auf Rückzahlung, der über den Ansprüchen der Eigenkapitalgebern steht.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Kein Mitspracherecht</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Höherer Anteil als <a href=\"logseq://graph/logseq?block-id=6505cd4f-6335-43cd-ac8e-dcf7d0b52f89\">EK</a> an der Finanzierung</span>\n     }}</li></ul>",
+                        "\n      <span>Fremdkapital <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Der Bereitstellende wird zum Gläubiger</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Besitzt einen vertraglich festgelegten Anspruch auf Rückzahlung, der über den Ansprüchen der Eigenkapitalgebern steht.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Kein Mitspracherecht</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Höherer Anteil als <a href=\"logseq://graph/logseq?block-id=6505cd4f-6335-43cd-ac8e-dcf7d0b52f89\">EK</a> an der Finanzierung</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Beispiele</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Anleihe <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Ist eine Kreditbeziehung zwischen Unternehmen und Investoren: Das Unternehmen ist der Kreditnehmer.</span>\n    </li>\n<li class=\"children\">\n      <span>Rückzahlungsbetrag ist der Nominalwert der Anleihe</span>\n    </li>\n<li class=\"children\">\n      <span>Auszahlungsbetrag ist der Preis den Investoren bei der Emission bezahlen.</span>\n    </li>\n<li class=\"children\">\n      <span>Der Zinssatz wird durch den Kupon (=periodische Verzinsung) festgelegt, ist oft an einen Referenzzinssatz gekoppelt</span>\n    </li>\n<li class=\"children\">\n      <span>Covenants (sonstige Vereinbarungen)</span>\n    </li>\n<li class=\"children\">\n      <span>Beispiel:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Nullkuponanleihe <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>einfachster Typ eines Wertpapiers</span>\n    </li>\n<li class=\"children\">\n      <span>zahlen keinen Kupon aus, werden daher <i>diskontiert verkauft</i>, daher auch <b>reine Diskontanleihen</b></span>\n    </li>\n<li class=\"children\">\n      <span>Der Nominalwert (Rückzahlungsbetrag) ist \\(N&lt;P\\), dem Preis</span>\n    </li>\n<li class=\"children\">\n      <span>\\(N-P\\) ist die Diskontierung</span>\n    </li>\n<li class=\"children\">\n      <span>\\(P/N\\) ist der Diskontfaktor</span>\n    </li>\n<li class=\"children\">\n      <span>Typischerweise beträgt die Laufzeit max. 1 Jahr</span>\n    </li></ul></li>\n<li class=\"children\">\n      <span>Kuponanleihe <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>auch: Bullet Bonds, Coupon Bearing Bonds</span>\n    </li>\n<li class=\"children\">\n      <span>Das Zahlungsintervall ist typischerweise bezeichnet als\\(\\Delta = 1/2\\) (in diesem Fall halbjährlich)</span>\n    </li>\n<li class=\"children\">\n      <span>Die Kuponzahlungen werden prozentual zum Nominalwert \\(N\\) angegeben, \\(C_i/N\\) ist die Kuponrate</span>\n    </li></ul></li></ul></li></ul></li>\n<li class=\"children\">\n      <span>Anzahlungen von Kunden</span>\n    </li>\n<li class=\"children\">\n      <span>Kredit <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\nPopulärster Weg der FK-Beschaffung</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Inhalt vertraglich geregelt:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Auszahlungsbetrag (Was bekommt der Kreditnehmer heute)</span>\n    </li>\n<li class=\"children\">\n      <span>Rückzahlungsbetrag</span>\n    </li>\n<li class=\"children\">\n      <span>Laufzeit</span>\n    </li>\n<li class=\"children\">\n      <span>Zinssatz</span>\n    </li>\n<li class=\"children\">\n      <span>Tilgungsstruktur</span>\n    </li>\n<li class=\"children\">\n      <span>Besicherung (Hat die Bank bei Zahlungsunfähigkeit das Recht das Vermögenswerte zu pfänden?)</span>\n    </li>\n<li class=\"children\">\n      <span>Kündigungsrechte (Beendigung vor Laufzeit durch Tilgung?)</span>\n    </li></ul></li></ul></li></ul> }}</li></ul>",
                         "",
                         "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
-                        "{\"dependencyHash\":\"708bc93a\",\"assets\":[]}"
+                        "{\"dependencyHash\":\"bfe07ab8\",\"assets\":[]}"
                     ],
                     "guid": "HEQ4%EatJA",
                     "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
@@ -77,10 +327,10 @@
                     "fields": [
                         "6505cd4f-6335-43cd-ac8e-dcf7d0b52f89-multiline_card",
                         "6505cd4f-6335-43cd-ac8e-dcf7d0b52f89",
-                        "\n      <span>Eigenkapital <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> <a class=\"tag\" href=\"logseq://graph/logseq?page=depth-2\">depth-2</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Bereitstellende wird zum (Mit-)Eigentümer des Unternehmens</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Recht auf Beteiligung am Unternehmenserfolg und Stimmrecht</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Beispiele</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Venture Capital <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    </li>\n<li class=\"children\">\n      <h3><span>Aktien</span><span> </span></h3>\n      <span>Verkauf erhöht das <a href=\"logseq://graph/logseq?block-id=6505cd4f-6335-43cd-ac8e-dcf7d0b52f89\">EK</a></span>\n    </li></ul> }}</li></ul>",
+                        "\n      <span>Eigenkapital <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> <a class=\"tag\" href=\"logseq://graph/logseq?page=depth-2\">depth-2</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Der Bereitstellende wird zum (Mit-)Eigentümer des Unternehmens</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Recht auf Beteiligung am Unternehmenserfolg und Stimmrecht</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Beispiele</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Venture Capital <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    </li>\n<li class=\"children\">\n      <h3><span>Aktien</span><span> </span></h3>\n      <span>Verkauf erhöht das <a href=\"logseq://graph/logseq?block-id=6505cd4f-6335-43cd-ac8e-dcf7d0b52f89\">EK</a></span>\n    </li></ul> }}</li></ul>",
                         "",
                         "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
-                        "{\"dependencyHash\":\"13a26273\",\"assets\":[]}"
+                        "{\"dependencyHash\":\"6e88c5d7\",\"assets\":[]}"
                     ],
                     "guid": "uL^w4mRfL`",
                     "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
@@ -97,7 +347,7 @@
                         "\n      <span>Außenfinanzierung <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Quelle von außerhalb des Unternehmens</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Beispiele</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Verkauf von Aktien -&gt; <a href=\"logseq://graph/logseq?block-id=6505cd4f-6335-43cd-ac8e-dcf7d0b52f89\">EK</a></span>\n    </li>\n<li class=\"children\">\n      <span>Aufnahme eines Kredites -&gt; <a href=\"logseq://graph/logseq?block-id=6505cd4a-898b-4149-9181-9a486e935ee8\">FK</a></span>\n    </li></ul> }}</li></ul>",
                         "",
                         "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
-                        "{\"dependencyHash\":\"37c463f1\",\"assets\":[]}"
+                        "{\"dependencyHash\":\"1cc20592\",\"assets\":[]}"
                     ],
                     "guid": "x9PMb~}B2.",
                     "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
@@ -113,7 +363,7 @@
                         "\n      <span>Innenfinanzierung <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Wird durch das Unternehmen selbst generiert</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Höherer Anteil als Außenfinanzierung an der Finanzierung</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Beispiele</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Einbehaltung von Gewinnen -&gt; <a href=\"logseq://graph/logseq?block-id=6505cd4f-6335-43cd-ac8e-dcf7d0b52f89\">EK</a></span>\n    </li>\n<li class=\"children\">\n      <span>Umschichtung (Verkauf von Immobilien, keine Zunahme des Kapitals) -&gt; <a href=\"logseq://graph/logseq?block-id=6505cd4f-6335-43cd-ac8e-dcf7d0b52f89\">EK</a></span>\n    </li>\n<li class=\"children\">\n      <span>Bildung von Rückstellungen (zur Deckung zukünftiger Verbindlichkeiten) -&gt; <a href=\"logseq://graph/logseq?block-id=6505cd4a-898b-4149-9181-9a486e935ee8\">FK</a></span>\n    </li></ul> }}</li></ul>",
                         "",
                         "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
-                        "{\"dependencyHash\":\"847b1ba8\",\"assets\":[]}"
+                        "{\"dependencyHash\":\"49751bd4\",\"assets\":[]}"
                     ],
                     "guid": "xyW6n:Vniq",
                     "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
@@ -129,9 +379,137 @@
                         "\n      <span>Venture Capital <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Eigenkapitalgeber die auf junge Unternehmen spezialisiert sind</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Bieten Kapital oft in Stufen bei Erreichung bestimmter Ziele</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Unterstützung oft nicht nur monetär sondern auch im Management</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Oft Einräumung weitreichender Kontrollrechte</span>\n     }}</li></ul>",
                         "",
                         "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
-                        "{\"dependencyHash\":\"059feb8e\",\"assets\":[]}"
+                        "{\"dependencyHash\":\"ab5cffba\",\"assets\":[]}"
                     ],
                     "guid": "pPnqP>FJkj",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6505ccf0-9b3a-4c26-9626-fd483f196eaa-multiline_card",
+                        "6505ccf0-9b3a-4c26-9626-fd483f196eaa",
+                        "\n      <span>Börsenhandel <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Kaufaufträge (Bid) werden mit Verkaufsaufträgen (Ask) verglichen und ausgeführt.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Bid-Ask Spread (Geld-Brief-Spanne) \\[\\frac{\\text{Ask}-\\text{Bid}⁣}{(\\text{Bid}+\\text{Ask})/2}\\] stellt die Differenz zwischen An- und Verkaufspreis prozentual zum Mittelwert der beiden dar.</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"747dde0c\",\"assets\":[]}"
+                    ],
+                    "guid": "xL1:8^8|CN",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6507faa9-de3a-447e-a808-b379aad81d10-multiline_card",
+                        "6507faa9-de3a-447e-a808-b379aad81d10",
+                        "\n      <span>Kredit <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\nPopulärster Weg der FK-Beschaffung</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Inhalt vertraglich geregelt:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Auszahlungsbetrag (Was bekommt der Kreditnehmer heute)</span>\n    </li>\n<li class=\"children\">\n      <span>Rückzahlungsbetrag</span>\n    </li>\n<li class=\"children\">\n      <span>Laufzeit</span>\n    </li>\n<li class=\"children\">\n      <span>Zinssatz</span>\n    </li>\n<li class=\"children\">\n      <span>Tilgungsstruktur</span>\n    </li>\n<li class=\"children\">\n      <span>Besicherung (Hat die Bank bei Zahlungsunfähigkeit das Recht das Vermögenswerte zu pfänden?)</span>\n    </li>\n<li class=\"children\">\n      <span>Kündigungsrechte (Beendigung vor Laufzeit durch Tilgung?)</span>\n    </li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"6009962d\",\"assets\":[]}"
+                    ],
+                    "guid": "v#ox4r%YOb",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6507fb80-d6c2-4b1c-9c0b-81064fffba10-multiline_card",
+                        "6507fb80-d6c2-4b1c-9c0b-81064fffba10",
+                        "\n      <span>Anleihe <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Ist eine Kreditbeziehung zwischen Unternehmen und Investoren: Das Unternehmen ist der Kreditnehmer.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Rückzahlungsbetrag ist der Nominalwert der Anleihe</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Auszahlungsbetrag ist der Preis den Investoren bei der Emission bezahlen.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Der Zinssatz wird durch den Kupon (=periodische Verzinsung) festgelegt, ist oft an einen Referenzzinssatz gekoppelt</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Covenants (sonstige Vereinbarungen)</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Beispiel:</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Nullkuponanleihe <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>einfachster Typ eines Wertpapiers</span>\n    </li>\n<li class=\"children\">\n      <span>zahlen keinen Kupon aus, werden daher <i>diskontiert verkauft</i>, daher auch <b>reine Diskontanleihen</b></span>\n    </li>\n<li class=\"children\">\n      <span>Der Nominalwert (Rückzahlungsbetrag) ist \\(N&lt;P\\), dem Preis</span>\n    </li>\n<li class=\"children\">\n      <span>\\(N-P\\) ist die Diskontierung</span>\n    </li>\n<li class=\"children\">\n      <span>\\(P/N\\) ist der Diskontfaktor</span>\n    </li>\n<li class=\"children\">\n      <span>Typischerweise beträgt die Laufzeit max. 1 Jahr</span>\n    </li></ul></li>\n<li class=\"children\">\n      <span>Kuponanleihe <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>auch: Bullet Bonds, Coupon Bearing Bonds</span>\n    </li>\n<li class=\"children\">\n      <span>Das Zahlungsintervall ist typischerweise bezeichnet als\\(\\Delta = 1/2\\) (in diesem Fall halbjährlich)</span>\n    </li>\n<li class=\"children\">\n      <span>Die Kuponzahlungen werden prozentual zum Nominalwert \\(N\\) angegeben, \\(C_i/N\\) ist die Kuponrate</span>\n    </li></ul></li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"2a344459\",\"assets\":[]}"
+                    ],
+                    "guid": "IHS}PW;g=*",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65096400-7eee-4f22-afd0-adf2a13455c2-multiline_card",
+                        "65096400-7eee-4f22-afd0-adf2a13455c2",
+                        "\n      <span>cum Dividende <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>vor Gewinnausschüttung</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"235c707c\",\"assets\":[]}"
+                    ],
+                    "guid": "ze~M19v!@o",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65096410-ab8c-44e0-a0e1-34f14d08a93f-multiline_card",
+                        "65096410-ab8c-44e0-a0e1-34f14d08a93f",
+                        "\n      <span>ex Dividende <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>nach Gewinnausschüttung</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"0309f5b7\",\"assets\":[]}"
+                    ],
+                    "guid": "AZ$acAXXrw",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650aa4d0-dd67-429c-9b95-f2725a717b72-multiline_card",
+                        "650aa4d0-dd67-429c-9b95-f2725a717b72",
+                        "\n      <span>Nullkuponanleihe <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>einfachster Typ eines Wertpapiers</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>zahlen keinen Kupon aus, werden daher <i>diskontiert verkauft</i>, daher auch <b>reine Diskontanleihen</b></span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Der Nominalwert (Rückzahlungsbetrag) ist \\(N&lt;P\\), dem Preis</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>\\(N-P\\) ist die Diskontierung</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>\\(P/N\\) ist der Diskontfaktor</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Typischerweise beträgt die Laufzeit max. 1 Jahr</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"463290b2\",\"assets\":[]}"
+                    ],
+                    "guid": "I|RYY<a9ra",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650aa5b1-07f7-4443-8abd-04d00784635c-multiline_card",
+                        "650aa5b1-07f7-4443-8abd-04d00784635c",
+                        "\n      <span>Kuponanleihe <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>auch: Bullet Bonds, Coupon Bearing Bonds</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Das Zahlungsintervall ist typischerweise bezeichnet als\\(\\Delta = 1/2\\) (in diesem Fall halbjährlich)</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Die Kuponzahlungen werden prozentual zum Nominalwert \\(N\\) angegeben, \\(C_i/N\\) ist die Kuponrate</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"4087358b\",\"assets\":[]}"
+                    ],
+                    "guid": "I3KTg*9J]8",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650afd66-df1a-46ca-a0d6-6bf84b1d7f18-multiline_card",
+                        "650afd66-df1a-46ca-a0d6-6bf84b1d7f18",
+                        "\n      <span>Fremdkapitalquote <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <div class=\"mathblock\">\\[ \\frac{FK}{FK+EK}\n       \\]</div>\n }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"45b13941\",\"assets\":[]}"
+                    ],
+                    "guid": "l(b|`3TiK(",
                     "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
                     "tags": [
                         "card"
@@ -167,12 +545,270 @@
                     "fields": [
                         "64f08c3a-96d2-40d7-ac3c-25ca5b1e8ed6-multiline_card",
                         "64f08c3a-96d2-40d7-ac3c-25ca5b1e8ed6",
-                        "\n      <span>Kapitalkosten <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>die Rendite, welche der Investor auf dem in der Unternehmung investierten Kapital erwartet. Diese Rendite stellt für die Unternehmung (als Gegenseite zum Investor) Kosten dar.</span>\n     }}</li></ul>",
+                        "\n      <span>Kapitalkosten <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>die Rendite, welche der Investor auf dem in der Unternehmung investierten Kapital erwartet. Diese Rendite stellt für die Unternehmung (als Gegenseite zum Investor) Kosten dar.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Fremdkapitalkosten <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Sind meist vertraglich geregelt durch Kredit und Anleihen</span>\n    </li></ul> }}</li>\n<li class=\"children\">{{c1:: \n      <span>Eigenkapitalkosten <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> <a class=\"tag\" href=\"logseq://graph/logseq?page=depth-1\">depth-1</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Tauchen nicht in der GuV (Gewinn- und Verlustrechnung) auf, müssen aber logisch existieren, da EK-Geber ohne Dividende keine Investition tätigen</span>\n    </li>\n<li class=\"children\">\n      <span>EK-Kosten bei uniformem Dividendenstrom <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>\\(P_0 = \\sum_{t=1}^{\\infty}\\frac{E[D_{t}]}{(1+e)^{t}⁣}\\), als geom. Reihe aufgelöst \\(P_0 = \\frac{E[D]}{e}\\)</span>\n    </li></ul></li>\n<li class=\"children\">\n      <span>Gordon-Growth-Modell <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Stellt Kapitalwert anhand eines erwarteten Wachstums der Dividenden dar.</span>\n    </li>\n<li class=\"children\">\n      <span>Bekannt ist der aktuelle Börsenkurs \\(P_{0}\\) und die zuletzt gezahlte Dividende \\(D_{0}\\). Bei einem erwarteten Wachstum von \\(g\\) ergibt sich die nächste Dividende als \\(D_{t} = (1+g)^{t} * D_{0}\\).</span>\n    </li>\n<li class=\"children\">\n      <span>Die Summe des Kapitalwerts sieht hiernach so aus (\\(r\\) ist nun mit \\(e\\) bezeichnet): \\[P_{0} = \\sum_{t=1}^{\\infty} \\frac{D_{0}(1+g)^{t}⁣}{(1+e)^{t}⁣}\\]. Als geom. Reihe aufgelöst ergibt sich daraus die Gordon-Growth-Formel: \\[P_0 = \\frac{D_{0}(1+g)}{e-g}\\]. Nach \\(e\\) umgeformt wird sie verwendet um die Eigenkapitalkosten zu berechnen.</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Vom Gewinn zur Dividende <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Da oftmals der Gewinn und nicht die Dividende prognostiziert wird, wird die Dividende als Gewinn pro Aktie mal der Ausschüttungsquote berechnet.</span>\n    </li></ul></li></ul></li></ul></li></ul> }}</li></ul>",
                         "",
                         "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
-                        "{\"dependencyHash\":\"14f9d2c0\",\"assets\":[]}"
+                        "{\"dependencyHash\":\"2665cf86\",\"assets\":[]}"
                     ],
                     "guid": "xt`znqKvdu",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650804d3-f90f-40ff-b136-714e298631fd-multiline_card",
+                        "650804d3-f90f-40ff-b136-714e298631fd",
+                        "\n      <span>Fremdkapitalkosten <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Sind meist vertraglich geregelt durch Kredit und Anleihen</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"5bdf1936\",\"assets\":[]}"
+                    ],
+                    "guid": "n9s*_Nol=H",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65080508-1721-47d7-9d3a-8f76d1a3ed4a-multiline_card",
+                        "65080508-1721-47d7-9d3a-8f76d1a3ed4a",
+                        "\n      <span>Eigenkapitalkosten <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> <a class=\"tag\" href=\"logseq://graph/logseq?page=depth-1\">depth-1</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Tauchen nicht in der GuV (Gewinn- und Verlustrechnung) auf, müssen aber logisch existieren, da EK-Geber ohne Dividende keine Investition tätigen</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>EK-Kosten bei uniformem Dividendenstrom <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Gordon-Growth-Modell <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"51202c9e\",\"assets\":[]}"
+                    ],
+                    "guid": "bK9BpUE$O!",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card",
+                        "depth-1"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650805f9-d216-4335-aa02-07f0c2831173-multiline_card",
+                        "650805f9-d216-4335-aa02-07f0c2831173",
+                        "\n      <span>Kapitalwert <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Auch: Net Present Value, NPV, Diskontierungsmodell</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Anleger sind gegenüber Investitionen mit gleicher Auszahlung und Risiko indifferent.\n        <br>\nAlso lässt sich der Wert einer zukünftigen Auszahlung über den zukünftigen Wert einer anderen Investition berechnen.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Der Barwert einer zukünftigen Zahlung \\(C\\) in \\(t\\) Jahren ist dann \\[K_{0} = \\frac{C_{t}⁣}{(1+r)^{t}⁣}\\], wobei \\(r\\) der erzielbare alternative Zinssatz ist (genannt Diskontierungsrate, Kapitalkosten oder auch Alternativertragssatz). Die zukünftige Zahlung wird <i>diskontiert</i>. Für mehrere Zahlungen \\(C_{t}\\) wird eine Summe gebildet: \\[K_{0} = \\sum_{t=0}^{T}{\\frac{C_{t}⁣}{(1+r)^{t}⁣}⁣}\\]</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Bei Unsicherheit wird der Erwartungswert \\(E[C_{t}]\\) und ein entsprechend höherer Alternativertragssatz verwendet.</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Beispiel: Eine Auszahlung von 1000€ in 5 Jahren ist bei einem Zins von 2% heute \\[K_{0} = \\frac{1000}{1,02^{5}⁣} = 905,73\\] wert: Man müsste heute ebendiese Summe anlegen, um in 5 Jahren ebenfalls 1000€ zu haben.</span>\n    </li></ul> }}</li>\n<li class=\"children\">{{c1::  }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"d76430f4\",\"assets\":[]}"
+                    ],
+                    "guid": "kMS:UnSI&&",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650829b9-d062-4083-a3be-c5bedf1b8b58-multiline_card",
+                        "650829b9-d062-4083-a3be-c5bedf1b8b58",
+                        "\n      <span>Gordon-Growth-Modell <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Stellt Kapitalwert anhand eines erwarteten Wachstums der Dividenden dar.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Bekannt ist der aktuelle Börsenkurs \\(P_{0}\\) und die zuletzt gezahlte Dividende \\(D_{0}\\). Bei einem erwarteten Wachstum von \\(g\\) ergibt sich die nächste Dividende als \\(D_{t} = (1+g)^{t} * D_{0}\\).</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Die Summe des Kapitalwerts sieht hiernach so aus (\\(r\\) ist nun mit \\(e\\) bezeichnet): \\[P_{0} = \\sum_{t=1}^{\\infty} \\frac{D_{0}(1+g)^{t}⁣}{(1+e)^{t}⁣}\\]. Als geom. Reihe aufgelöst ergibt sich daraus die Gordon-Growth-Formel: \\[P_0 = \\frac{D_{0}(1+g)}{e-g}\\]. Nach \\(e\\) umgeformt wird sie verwendet um die Eigenkapitalkosten zu berechnen.</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Vom Gewinn zur Dividende <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Da oftmals der Gewinn und nicht die Dividende prognostiziert wird, wird die Dividende als Gewinn pro Aktie mal der Ausschüttungsquote berechnet.</span>\n    </li></ul></li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"cd99a30a\",\"assets\":[]}"
+                    ],
+                    "guid": "h.Ug*`Ti0.",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65088318-9533-4b05-b4f2-bbe8cae9dda3-multiline_card",
+                        "65088318-9533-4b05-b4f2-bbe8cae9dda3",
+                        "\n      <span>EK-Kosten bei uniformem Dividendenstrom <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>\\(P_0 = \\sum_{t=1}^{\\infty}\\frac{E[D_{t}]}{(1+e)^{t}⁣}\\), als geom. Reihe aufgelöst \\(P_0 = \\frac{E[D]}{e}\\)</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"c7e9f1aa\",\"assets\":[]}"
+                    ],
+                    "guid": "fH,0;j1,as",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65088820-d996-417b-ba62-38fea30eb57d-multiline_card",
+                        "65088820-d996-417b-ba62-38fea30eb57d",
+                        "\n      <span>Vom Gewinn zur Dividende <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Da oftmals der Gewinn und nicht die Dividende prognostiziert wird, wird die Dividende als Gewinn pro Aktie mal der Ausschüttungsquote berechnet.</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"ec38c47a\",\"assets\":[]}"
+                    ],
+                    "guid": "c~8b@9AEmL",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65088b6a-d256-4709-ba9a-65a99060ae05-multiline_card",
+                        "65088b6a-d256-4709-ba9a-65a99060ae05",
+                        "\n      <span>ROE <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Return on Equity, gibt an wie viel Gewinn im Verhältnis zum im Unternehmen vorhandenen EK erwirtschaftet wird.</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Deutsch: Eigenkapitalrendite</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>\\(\\text{ROE} = \\frac{G}{EK}\\)</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Lässt sich auch aus dem <a href=\"logseq://graph/logseq?block-id=650829b9-d062-4083-a3be-c5bedf1b8b58\">Gordon-Growth Modell</a> als \\(e\\) ablesen</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>TODO Lässt sich ebenfalls darstellen als \\[ROE = ROA + (ROA - i)\\frac{FK}{EK}\\], schwankt also direkt proportional zum ROA (Geschäftsrisiko), der zweite Term ist das</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Finanzierungsrisiko <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Wenn \\(FK/GK\\) steigt, steigt auch die Unsicherheit über ROE</span>\n    </li>\n<li class=\"children\">\n      <span>außerdem steigt auch</span>\n    </li></ul></li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"2c815eee\",\"assets\":[]}"
+                    ],
+                    "guid": "Q=r]R%l;2`",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650966a0-bd33-435f-ad88-4e4bb7cc0a62-multiline_card",
+                        "650966a0-bd33-435f-ad88-4e4bb7cc0a62",
+                        "\n      <span>Erwartete Rendite eines Aktionärs <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <div class=\"mathblock\">\\[ E[Rendite] = \\frac{E[P_1] + E[D_1]- P_0}{P_0}\n       \\]</div>\n      <span>, wobei \\(P_0\\) der Kaufpreis ist, \\(P_1\\) Verkaufspreis</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"31eca096\",\"assets\":[]}"
+                    ],
+                    "guid": "GzXSPseIC6",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65096dec-43fb-46c8-ac5d-a442d3fd8578-multiline_card",
+                        "65096dec-43fb-46c8-ac5d-a442d3fd8578",
+                        "\n      <span>Unternehmenswert \\(V_0\\) <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <div class=\"mathblock\">\\[ V_0 = \\sum_{t=1}^{\\infty} \\frac{E[X_t]}{(1+k)^t} \n       \\]</div>\n      <span> mit\n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">X</td>\n            <td scope=\"col\" class=\"org-left\">Bruttoerträge (Dividenden + Zinsen)</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">k</td>\n            <td scope=\"col\" class=\"org-left\">Kapitalkosten</td>\n          </tr>\n        </tbody>\n      </table>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Kapitalkosten <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    </li>\n<li class=\"children\">\n      <div class=\"mathblock\">\\[ k= e* \\frac{EK}{EK+FK} + i * \\frac{FK}{EK+FK}\n       \\]</div>\n      <span>mit \n        <br>\n</span>\n      <table border=\"2\" cellspacing=\"0\" cellpadding=\"6\" rules=\"groups\" frame=\"hsides\">\n        <colgroup>\n          <col class=\"org-left\">\n          <col class=\"org-left\">\n        </colgroup>\n\n        <tbody>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">e</td>\n            <td scope=\"col\" class=\"org-left\">EK-Kosten</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">EK</td>\n            <td scope=\"col\" class=\"org-left\">Wert des Eigenkapitals (Marktwert, da Entscheidung der Aktionäre vom Marktwert abhängig)</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">i</td>\n            <td scope=\"col\" class=\"org-left\">FK-Kosten</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">FK</td>\n            <td scope=\"col\" class=\"org-left\">Wert des Fremdkapitals (Marktwert)</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">FK / EK</td>\n            <td scope=\"col\" class=\"org-left\">Kapitalstruktur</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">FK / (EK+FK)</td>\n            <td scope=\"col\" class=\"org-left\">Fremdkapitalquote, Verschuldungsgrad</td>\n          </tr>\n          <tr>\n            <td scope=\"col\" class=\"org-left\">EK / (EK+FK)</td>\n            <td scope=\"col\" class=\"org-left\">Eigenkapitalquote</td>\n          </tr>\n        </tbody>\n      </table>\n    </li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"1cb47aa9\",\"assets\":[]}"
+                    ],
+                    "guid": "mXT!$]0wp4",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650975d0-aed4-4c28-964b-6f9bb208657d-multiline_card",
+                        "650975d0-aed4-4c28-964b-6f9bb208657d",
+                        "\n      <span>ROA <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Return on Assets, Gesamtkapitalrendite</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <div class=\"mathblock\">\\[ ROA = \\frac{G}{EK+FK}\n       \\]</div>\n }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"3b0f12f0\",\"assets\":[]}"
+                    ],
+                    "guid": "LLWS=B0S?D",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65097678-2085-459b-8632-e0ae3395b60b-multiline_card",
+                        "65097678-2085-459b-8632-e0ae3395b60b",
+                        "\n      <span>Residualgewinn <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <div class=\"mathblock\">\\[ G= X - i*FK\n       \\]</div>\n }}</li>\n<li class=\"children\">{{c1:: \n      <span>Gewinn der an Teilhaber ausgezahlt werden kann (nach Abzug von FK-Kosten)</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"5d2ce3cd\",\"assets\":[]}"
+                    ],
+                    "guid": "kXT<yK&9m|",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "65097b56-549a-46c6-8b24-812a4867974c-multiline_card",
+                        "65097b56-549a-46c6-8b24-812a4867974c",
+                        "\n      <span>Finanzierungsrisiko <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a>\n        <br>\n</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Wenn \\(FK/GK\\) steigt, steigt auch die Unsicherheit über ROE</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>außerdem steigt auch</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"114cb7c9\",\"assets\":[]}"
+                    ],
+                    "guid": "JA|!w1jNvj",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "6509d36f-a41a-48c2-9467-96742e307ea8-multiline_card",
+                        "6509d36f-a41a-48c2-9467-96742e307ea8",
+                        "\n      <span>Modigliani-Miller-Thesen <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a> <a class=\"tag\" href=\"logseq://graph/logseq?page=incremental\">incremental</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Die Gesamtwerte V = EK + FK von\n        <br>\n</span>\n\n      <span>zwei Unternehmungen mit vergleichbarem Risiko und gleichen\n        <br>\nerwarteten Bruttogewinnen unterscheiden sich trotz\n        <br>\nunterschiedlicher Kapitalstrukturen nicht.</span>\n     }}</li>\n<li class=\"children\">{{c3:: \n      <span>Eigenkapitalkosten sind eine\n        <br>\n</span>\n\n      <span>lineare Funktion des Verh¨altnisses der Marktwerte von\n        <br>\nFremdkapital und Eigenkapital.</span>\n     }}</li>\n<li class=\"children\">{{c4:: \n      <span>Die Kapitalkosten einer verschuldeten\n        <br>\n</span>\n\n      <span>Unternehmung sind im Gleichgewicht konstant und\n        <br>\nunabh¨angig von der Kapitalstruktur. Sie gleichen den (Eigen-)\n        <br>\nKapitalkosten einer unverschuldeten Unternehmung und der\n        <br>\nerwarteten Rendite des Gesamtkapitals (zu Marktwerten) von\n        <br>\nUnternehmungen in der Risikoklasse.</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"154a9e40\",\"assets\":[]}"
+                    ],
+                    "guid": "O3?8A81hg{",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card",
+                        "incremental"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650aa2bc-2f85-46d9-b46f-829dba6a631c-multiline_card",
+                        "650aa2bc-2f85-46d9-b46f-829dba6a631c",
+                        "\n      <span>Arbitrage <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Erhalten eines <b>risikolosen</b> Gewinns durch simultanen Handel auf zwei oder mehreren Märkten</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Beispiel: Unterschiedliche Preise von Aktien (Software, etc.) in London und New York:\n        <br>\nArbitrageur kauft bei Anfrage (on demand) des teureren Marktes (New York, 122€) auf dem günstigeren Markt (London, 115€) um im anschließenden Verkauf sicheren Profit zu realisieren</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Besteht meist nicht lange, da Erhöhung des Angebots auf dem teureren Markt zu einer Preissenkung (und umgekehrt) führt</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>TODO Arbitragebeweis, Arbitragemöglichkeiten</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Beispiel: In welcher der folgenden Situationen kann man Arbitrage erwarten?</span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">\n      <span>Juli-Futures sind 30% teurer als September-Futures</span>\n    </li></ul> }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"33dcda3a\",\"assets\":[]}"
+                    ],
+                    "guid": "ll}$xi2<MT",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650af971-caaa-45f9-8a29-196997f84cf5-multiline_card",
+                        "650af971-caaa-45f9-8a29-196997f84cf5",
+                        "\n      <span>Dividendenrendite <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <div class=\"mathblock\">\\[ \\frac{D_0}{P_0}\n       \\]</div>\n      <span>, die gezahlte Dividende im Verhältnis zum Preis</span>\n     }}</li></ul>",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"6e13ff3a\",\"assets\":[]}"
+                    ],
+                    "guid": "xvJsA95WnL",
+                    "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+                    "tags": [
+                        "card"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "650b050f-741d-47fc-852e-a99d2a85583f-multiline_card",
+                        "650b050f-741d-47fc-852e-a99d2a85583f",
+                        "\n      <span>Kapitalkosten <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\"></ul>{{c1::}}",
+                        "",
+                        "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                        "{\"dependencyHash\":\"2951b4ce\",\"assets\":[]}"
+                    ],
+                    "guid": "nM~FzYR`l2",
                     "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
                     "tags": [
                         "card"
@@ -366,7 +1002,24 @@
             "type": 1
         }
     ],
-    "notes": [],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "650aa263-ba20-4df8-89c1-f3e9f46e2779-multiline_card",
+                "650aa263-ba20-4df8-89c1-f3e9f46e2779",
+                "\n      <span>Hedging <a class=\"tag\" href=\"logseq://graph/logseq?page=card\">card</a></span>\n    \n<ul class=\"children-list left-border\">\n<li class=\"children\">{{c1:: \n      <span>Absicherung</span>\n     }}</li>\n<li class=\"children\">{{c1:: \n      <span>Investoren sind den Bewegungen des Basiswertes (Underlying&lt;)</span>\n     }}</li></ul>",
+                "",
+                "<a href=\"logseq://graph/logseq?page=WiWi%2FFinanzierung\" title=\"WiWi/Finanzierung\">WiWi/Finanzierung</a>",
+                "{\"dependencyHash\":\"7d8c6ddc\",\"assets\":[]}"
+            ],
+            "guid": "M[qtaiKd$=",
+            "note_model_uuid": "2c3c53e2-55f3-11ee-a1f9-50eb714989dc",
+            "tags": [
+                "card"
+            ]
+        }
+    ],
     "reviewLimit": null,
     "reviewLimitToday": null
 }
